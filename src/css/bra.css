@@ -125,7 +125,7 @@ footer{
     font-weight: 200;
 }
 
-.text-crunches, .text-leg-raise, .text-cross-cr, .text-mountain-climber, .txt-hell, .txt-plank, .txt-oblique {
+.txt-ombro, .txt-biceps, .txt-triceps, .txt-ant {
     width: 850px;
     font-size: 4em;
     margin-bottom: 2em;
@@ -137,13 +137,24 @@ footer{
     padding-top: 25px;
 }
 
-.bar-crunches, .bar-cross-crunches, .bar-leg-raise, .bar-mountain-climber, .bar-hell, .bar-plank, .bar-oblique {
+.bar-ombro, .bar-biceps, .bar-triceps, .bar-ant {
     background-color: #20262E;
     height: 100px;
     margin-bottom: 4em;
 }
 
-#img-crunche, #img-cross-cr, #img-mountain-climber, #img-leg-raise, #img-hell, #img-plank, #img-oblique {
+#img-ombro {
     margin-left: 17em;
     margin-right: 10em;
+}
+
+#img-biceps, #img-biceps2, #img-triceps, #img-triceps2, #img-ant, #img-ant2 {
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+#img-triceps3 {
+	margin-left: 5em;
+	margin-right: 5em;
+	margin-top: 5em;
 }
