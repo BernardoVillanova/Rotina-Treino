@@ -9,3 +9,5 @@
 <a href="https://br.pinterest.com">Pinterest</a>
 
 <a href="https://fonts.google.com">Google Fonts</a>
+
+<a href="https://colorhunt.co">Color Hunt</a>
