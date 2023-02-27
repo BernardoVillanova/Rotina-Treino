@@ -124,3 +124,35 @@ footer{
     opacity: .4;
     font-weight: 200;
 }
+
+.txt-segunda {
+    width: 850px;
+    font-size: 4em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    text-align:left;
+    margin-left: 6em;
+    color: #cbbb92;
+    width: 100%;
+    padding-top: 25px;
+}
+
+.bar-segunda {
+    background-color: #20262E;
+    height: 100px;
+    margin-bottom: 4em;
+}
+
+.est {
+	width: 15%;
+	background-color: #393E46;
+	margin-top: 3em;
+	margin-left: 5em;
+	border-radius: 20px;
+	display: inline-table;
+}
+
+.txt-est, .s-1 {
+	text-align: center;
+	margin-bottom: 3px;
+}
