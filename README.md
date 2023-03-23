@@ -1,11 +1,11 @@
 # 💪🏽 Rotina-Treino ✌🏽
 
 ## 👉🏽 Destaques 👈🏽
-- [Rodar a Aplicação](#👇🏽-gostaria-de-rodar-em-sua-máquina-e-acompanhar-os-treinos-siga-o-tutorial-👇🏽)
-- [Desenvolvimento do Site](#👨🏽‍💻-desenvolvimento-do-site-👨🏽‍💻)
-- [Sites Usados](#👨🏽‍💻-site-usados-me-apoiar-no-desenvolvimento-👨🏽‍💻)
-- [Tecnologias Usadas](#🧑‍🚀-tecnologias-usadas-🧑‍🚀)
-- [Material Didático](#📚-material-didático-utilizado-📚)
+- [Rodar a Aplicação](#gostaria-de-rodar-em-sua-máquina-e-acompanhar-os-treinos-siga-o-tutorial)
+- [Desenvolvimento do Site](#desenvolvimento-do-site-)
+- [Sites Usados](#site-usados-me-apoiar-no-desenvolvimento)
+- [Tecnologias Usadas](#tecnologias-usadas)
+- [Material Didático](#material-didático-utilizado)
 
 ### 👇🏽 Gostaria de rodar em sua máquina e acompanhar os treinos? Siga o tutorial 👇🏽
 
