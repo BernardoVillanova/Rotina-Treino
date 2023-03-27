@@ -239,15 +239,21 @@ button a {
     }
 
     .est {
-        margin-bottom: 30px;
-        margin: 4%;
+        width: 15%;
+        background-color: #393E46;
+        margin-top: 3em;
+        margin-left: 5em;
+        border-radius: 20px;
+        display: inline-table;
     }
 
     #img-est {
-        display: block;
+        display: flex;
         margin: auto;
         height: 150px;
         flex-direction: row;
+        justify-content: center;
+        align-items: center;
     }
 
     .txt-est, .s-1 {
