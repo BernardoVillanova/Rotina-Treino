@@ -166,7 +166,7 @@ footer{
 }
 
 .btns button {
-    width: 250px;
+    width: 230px;
     height: 60px;
     cursor: pointer;
     border: 1px solid black;
@@ -182,7 +182,7 @@ footer{
 
 .btns button:hover {
     color: rgb(251, 255, 0);
-    border: none;
+    border: black;
 }
 
 .btns button:before {
@@ -196,6 +196,7 @@ footer{
     background-color: #FFD966;
     z-index: -1;
     transition: 1s;
+    border: #000;
 }
 
 .btns button:hover:before {
@@ -242,7 +243,7 @@ button a {
         width: 15%;
         background-color: #393E46;
         margin-top: 3em;
-        margin-left: 5em;
+        margin-left: 1em;
         border-radius: 20px;
         display: inline-table;
     }
@@ -344,7 +345,7 @@ button a {
     
     .btns button:hover {
         color: rgb(251, 255, 0);
-        border: none;
+        border: black;
     }
     
     .btns button:before {
