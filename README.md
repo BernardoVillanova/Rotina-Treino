@@ -77,6 +77,52 @@ $ ```docker run -d -p 8080:80 --name treino treino```
 
 # Conceitos Básicos:
 
+## Variáveis de Treinamento:
+
+### Frequência:
+
+- Quantidade de vezes que irei treinar determinado musculo na semana.
+
+### Densidade:
+
+- Tensão do exercício durante sua execução.
+- Tempo de descanso durante as séries dos treinos.
+- Repetições em cada série.
+- Densidade é inversamente proporcional a intensidade, aumento de carga e tempo de descanso curto.
+- Cadência lenta aumenta a densidade.
+
+### Intensidade:
+
+- Peso do exercicio.
+- Volume inversamente proporcional a intensidade.
+  - Caso aumente a quantidade de séries e repetições, a carga irá diminuir.
+
+### German Volume Training (GVT):
+- 60 segundos musculos pequenos e a 90 segundos para musculos grandes.
+- Mesma carga durante as 10 repetições.
+  - Podendo ser adaptado.
+  
+### FST-7 (Treinamento de Alongamento da Fascia):
+
+- No final do treinamento de um agrupamento de músculos irá executar 7 séries de 8 a 12 repetições, em exercicio isolador.
+- 30 segundos de descanso ativo.
+  - Alongamento durante o descanso.
+- Ajuda em musculos encurtados durante as séries.
+
+### Cálculo de RM (Repetição Máxima):
+
+<img src="img/RMPiramide.png">
+
+Este <a href="https://miniwebtool.com/br/one-rep-max-1rm-calculator/?weight_lifted=60&kg_lb=kg&number_of_repetitions=10">link</a> irá calcular o número de repetições máximas e suas devidas porcentagem.
+
+<strong>
+
+### Exercicios para calcular seu RM:
+
+- Supino
+- Agachamento Livre
+- Levantamento Terra
+</strong>
 
 Estarei utilizando a Periodização de Treino para assim alcançar ainda mais rápidos meu objetivos e irá seguir da seguinte forma:
 
@@ -97,7 +143,7 @@ Estarei utilizando a Periodização de Treino para assim alcançar ainda mais r�
   </tr>
   <tr>
     <td>2°</td>
-    <td>2 - 4 Semanas</td>
+    <td>4 - 8 Semanas</td>
     <td>Hipertrofia (ABCD)</td>
   </tr>
   <tr>
@@ -116,6 +162,12 @@ Estarei utilizando a Periodização de Treino para assim alcançar ainda mais r�
     <td>Deload (ABCD)</td>
   </tr>
 </table>
+
+<br>
+
+<img src="img/Mesociclo.png">
+
+<br>
 
 - Treinos de Adaptação não são até a falhas e sim, compreender a execução dos exercícios. (Aprendizado Neuromotor).
 - Treinos RML são com pesos menores, como por exemplo uma semana de descanso e ainda assim executando e ativando as enzimas. (Aumenta a densidade do Treino)
@@ -143,11 +195,21 @@ Estarei utilizando a Periodização de Treino para assim alcançar ainda mais r�
 <br>
 <details>
   <summary> Treino de RML</summary>
-  <code>São treino optativos, caso você tenha a consciencia que alcançou seus objetivos e precisa melhorar algum músculo ou fortificar o mesmo, normalmente ele é feito após a semana de Deload, mas como ainda estou longe do meu objetivo ainda não irei utilizar a técnica RML</code>
+  <code>São treino optativos, caso você tenha a consciencia que alcançou seus objetivos e precisa melhorar algum músculo ou fortificar o mesmo, normalmente ele é feito após a semana de Deload, mas como ainda estou longe do meu objetivo ainda não irei utilizar a técnica RML.
+  Descansos de 30 a 45 segundos</code>
 </details>
 <br>
 
-### Macrociclo, Mesociclo & Microciclo
+## Macrociclo, Mesociclo & Microciclo
+
+### Microciclo
+- Equivaler a até 14 dias (2 semanas)
+  
+### Mesociclo
+- Até 2 Meses
+
+### Macrociclo
+- De 6 a 12 meses
  
 # Material Didático Utilizado:
 
