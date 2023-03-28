@@ -6,6 +6,11 @@
 	box-sizing: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #FFD966;
+}
+
 html {
 	width: 100%;
 	height: 50vw;
