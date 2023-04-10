@@ -154,6 +154,14 @@ footer{
 	font-size: 14px;
 }
 
+.txt-bas {
+    width: 100%;
+    font-size: 5em;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: #FFD966;
+}
+
 #img-c {
     margin-left: 17em;
     margin-right: 10em;
@@ -199,6 +207,14 @@ footer{
         width: 27%;
         margin-bottom: 6%;
 		box-shadow: none;
+    }
+
+    .txt-bas {
+        width: 100%;
+        font-size: 5em;
+        margin-bottom: 2rem;
+        text-align: center;
+        color: #FFD966;
     }
 
     .txt-c {

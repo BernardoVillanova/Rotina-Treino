@@ -8,6 +8,7 @@
 - [Tecnologias Usadas](#tecnologias-usadas)
 - [Conceitos Básicos](#conceitos-básicos)
 - [Material Didático](#material-didático-utilizado)
+- [Conceitos de Dietas](#dieta)
 
 
 # Gostaria de rodar em sua máquina e acompanhar os treinos? Siga o tutorial:
@@ -226,7 +227,7 @@ Estarei utilizando a Periodização de Treino para assim alcançar ainda mais r�
 ### AZEVEDO, P. T. DE. Comparação entre o método FST-7 e o método tradicional de treinamento de força sobre a percepção subjetiva do esforço e o volume máximo de exercício até a fadiga. www.monografias.ufop.br, 2019.
 
 
-# 👷 Coming soon 👷
+# Dietas
 
 
 ‌
